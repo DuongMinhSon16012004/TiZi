@@ -224,7 +224,10 @@
     .contact-right {
         line-height: 3.5;
     }
-    
+    .send-btn {
+        width: 100%;
+    }
+
     .send-btn:active {
         cursor: pointer;
         background-color: #ccc;
